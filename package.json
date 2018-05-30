@@ -2,6 +2,12 @@
   "name": "git-terminal",
   "version": "0.0.0",
   "description": "A tiny terminal dashboard to monitor and manage multiple git repositories",
+  "keywords": ["git", "cli", "CLI", "management", "blessed", "dashboard", "monitor"],
+  "homepage": "https://github.com/yomansk8/git-terminal",
+  "bugs": {
+    "url": "https://github.com/yomansk8/git-terminal/issues"
+  },
+  "repository": "github:yomansk8/git-terminal",
   "main": "src/index.js",
   "scripts": {
     "build": "babel --minified --copy-files --ignore *.test.js -d ./build ./src",
