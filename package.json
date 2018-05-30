@@ -1,6 +1,6 @@
 {
   "name": "git-terminal",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tiny terminal dashboard to monitor and manage multiple git repositories",
   "keywords": ["git", "cli", "CLI", "management", "blessed", "dashboard", "monitor"],
   "homepage": "https://github.com/yomansk8/git-terminal",
